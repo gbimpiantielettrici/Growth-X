@@ -5,6 +5,10 @@
  */
 
 .materialize-orange {
+  background-color: #f86942 !important;
+}
+
+.materialize-orange-text {
   color: #f86942 !important;
 }
 

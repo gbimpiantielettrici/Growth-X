@@ -15,7 +15,7 @@ nav .brand-logo {
 
 nav ul a,
 nav .brand-logo {
-  color: #fff;
+  color: #f86942;
 }
 
 .nav-wrapper {
@@ -31,7 +31,7 @@ p {
 }
 
 .sidenav-trigger {
-  color: #06b2b1;
+  color: #f86942;
 }
 
 .parallax-container {
@@ -147,12 +147,12 @@ p {
 
 footer.page-footer {
   margin: 0;
-  background-color: #212121;
+  background-color: #352245;
 }
 
 .social-icon {
   font-size: 1.5em;
-  color: #06b2b1;
+  color: #f86942;
   padding: 0 20px;
 }
 

@@ -4,6 +4,38 @@
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
  */
 
+.materialize-grigio {
+  background-color: #717a8a !important;
+}
+
+.materialize-grigio-text {
+  color: #717a8a !important;
+}
+
+.materialize-azzurro {
+  background-color: #509cf6 !important;
+}
+
+.materialize-azzurro-text {
+  color: #509cf6 !important;
+}
+
+.materialize-verde {
+  background-color: #03de75 !important;
+}
+
+.materialize-verde-text {
+  color: #03de75 !important;
+}
+
+.materialize-blue {
+  background-color: #002b45 !important;
+}
+
+.materialize-blue-text {
+  color: #002b45 !important;
+}
+
 .materialize-orange {
   background-color: #f86942 !important;
 }

@@ -145,7 +145,7 @@ p {
   will-change: border;
 }
 
-footer.page-footer {
+footer .page-footer {
   margin: 0;
   background-color: #002b45;
 }

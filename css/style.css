@@ -145,11 +145,6 @@ p {
   will-change: border;
 }
 
-.btn-btn-primary {
-  width: 100%;
-  padding-top: 1rem;
-}
-
 footer .page-footer {
   margin: 0;
   background-color: #002b45;

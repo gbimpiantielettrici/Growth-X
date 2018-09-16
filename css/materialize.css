@@ -4,6 +4,14 @@
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
  */
 
+.materialize-rosso {
+  background-color: #f4364c !important;
+}
+
+.materialize-rosso-text {
+  color: #f4364c !important;
+}
+
 .materialize-grigio {
   background-color: #717a8a !important;
 }

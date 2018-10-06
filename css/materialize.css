@@ -3,6 +3,9 @@
  * Copyright 2014-2017 Materialize
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
  */
+.materialize-orange-shadowed {
+  background-image:linear-gradient(to left,#F09459,#e66586);
+}
 
 .materialize-rosso {
   background-color: #f4364c !important;

@@ -5228,7 +5228,7 @@ small {
 .btn, .btn-large, .btn-small,
 .btn-flat {
   border: none;
-  border-radius: 2px;
+  border-radius: 30px;
   display: inline-block;
   height: 36px;
   line-height: 36px;
